@@ -1,0 +1,14 @@
+Package: com.PersonalFleek.project_pinwheel
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PersonalFleek <personalfleek@gmail.com>
+Depends: <bundleids>
+Filename: debs//<deb>
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: <repo section>
+Description: <description>
+Author: PersonalFleek <personalfleek@gmail.com>
+Name: Pinwheel
