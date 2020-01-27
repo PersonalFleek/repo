@@ -9,6 +9,6 @@ MD5sum: <md5 hash of deb>
 SHA1: <sha1 hash of deb>
 SHA256: <sha256 of deb>
 Section: <repo section>
-Description: <description>
+Description: Change the default respring logo
 Author: PersonalFleek <personalfleek@gmail.com>
 Name: Pinwheel
